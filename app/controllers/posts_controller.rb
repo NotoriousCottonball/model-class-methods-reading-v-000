@@ -12,7 +12,7 @@ class PostsController < ApplicationController
     else
       @posts = Post.all
     end
-end
+  end
     
   end
 
